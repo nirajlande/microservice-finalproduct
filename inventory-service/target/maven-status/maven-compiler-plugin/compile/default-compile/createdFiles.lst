@@ -1,0 +1,6 @@
+com\niraj\inventory_service\controller\InventoryController.class
+com\niraj\inventory_service\InventoryServiceApplication.class
+com\niraj\inventory_service\dto\InventoryResponse.class
+com\niraj\inventory_service\model\Inventory.class
+com\niraj\inventory_service\service\InventoryService.class
+com\niraj\inventory_service\repository\InventoryRepository.class

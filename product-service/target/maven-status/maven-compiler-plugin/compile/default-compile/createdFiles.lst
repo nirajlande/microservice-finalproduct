@@ -1,0 +1,10 @@
+com\niraj\product_service\dto\ProductResponse.class
+com\niraj\product_service\dto\ProductResponse$ProductResponseBuilder.class
+com\niraj\product_service\ProductServiceApplication.class
+com\niraj\product_service\dto\ProductRequest.class
+com\niraj\product_service\controller\ProductController.class
+com\niraj\product_service\dto\ProductRequest$ProductRequestBuilder.class
+com\niraj\product_service\model\Product$ProductBuilder.class
+com\niraj\product_service\repository\ProductRepository.class
+com\niraj\product_service\model\Product.class
+com\niraj\product_service\service\ProductService.class
