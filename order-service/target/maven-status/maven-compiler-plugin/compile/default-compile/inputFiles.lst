@@ -1,6 +1,9 @@
+E:\project  micro\microservices-new\order-service\src\main\java\com\niraj\order_service\config\WebClientConfig.java
 E:\project  micro\microservices-new\order-service\src\main\java\com\niraj\order_service\controller\OrderController.java
+E:\project  micro\microservices-new\order-service\src\main\java\com\niraj\order_service\dto\InventoryResponse.java
 E:\project  micro\microservices-new\order-service\src\main\java\com\niraj\order_service\dto\OrderLineItemsDto.java
 E:\project  micro\microservices-new\order-service\src\main\java\com\niraj\order_service\dto\OrderRequest.java
+E:\project  micro\microservices-new\order-service\src\main\java\com\niraj\order_service\event\OrderPlacedEvent.java
 E:\project  micro\microservices-new\order-service\src\main\java\com\niraj\order_service\model\Order.java
 E:\project  micro\microservices-new\order-service\src\main\java\com\niraj\order_service\model\OrderLineItems.java
 E:\project  micro\microservices-new\order-service\src\main\java\com\niraj\order_service\OrderProductApplication.java

@@ -1,8 +1,12 @@
 com\niraj\order_service\OrderProductApplication.class
-com\niraj\order_service\dto\OrderLineItemsDto.class
-com\niraj\order_service\model\OrderLineItems.class
 com\niraj\order_service\repository\OrderRepository.class
 com\niraj\order_service\service\OrderService.class
 com\niraj\order_service\dto\OrderRequest.class
 com\niraj\order_service\controller\OrderController.class
 com\niraj\order_service\model\Order.class
+com\niraj\order_service\config\WebClientConfig.class
+com\niraj\order_service\dto\OrderLineItemsDto.class
+com\niraj\order_service\model\OrderLineItems.class
+com\niraj\order_service\dto\InventoryResponse.class
+com\niraj\order_service\dto\InventoryResponse$InventoryResponseBuilder.class
+com\niraj\order_service\event\OrderPlacedEvent.class
